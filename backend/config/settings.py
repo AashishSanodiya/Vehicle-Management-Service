@@ -2,7 +2,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'django-insecure-vehicle-service-secret-key-2024'
+SECRET_KEY = 'django-insecure-aashish-vsms-x9k2p7q4m3n8r1t6'
 DEBUG = True
 ALLOWED_HOSTS = ['*']
 

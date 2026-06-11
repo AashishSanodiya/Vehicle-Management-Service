@@ -1,4 +1,5 @@
 # Vehicle Service Management System
+**Developed by: Aashish Sanodiya**
 
 A full-stack web application for managing vehicle services, repairs, components, pricing, and revenue visualization.
 
